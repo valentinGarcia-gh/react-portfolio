@@ -25,6 +25,11 @@ const About = () => {
                     Atlanta, Georgia that specializes in building highly responsive,
                     detailed, user-friendly, web apps. I have experience with
                     MongoDB/MySQL, Express, React, and Node.js. Or in short, MERN stack.
+                    I have my Master's in Information Technology with a concentration
+                    in Software Development and am also a Certified Scrum Master. My education 
+                    and certifications, coupled with over 5 years of experience in Software 
+                    Development make for a great background and serves as a great 
+                    asset for any team in I.T. 
                   </p>
 
                   <p>Feel free to take a look around!</p>
