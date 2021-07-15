@@ -16,7 +16,7 @@ const About = () => {
               <div className="row">
                 <div className="col-lg-12">
                   <img
-                    src=".public/images/atlutd Val.png"
+                    src="https://photos.app.goo.gl/6PPwyRyT4ado9Z449"
                     className="thumbnail float-left pr-2 pb-2"
                     alt="me"
                   />
