@@ -1,4 +1,5 @@
 import React from "react";
+import atlutdVal from "../../images/atlutd Val.png"
 
 const About = () => {
   return (
@@ -16,12 +17,12 @@ const About = () => {
               <div className="row">
                 <div className="col-lg-12">
                   <img
-                    src="https://photos.app.goo.gl/6PPwyRyT4ado9Z449"
+                    src={atlutdVal}
                     className="thumbnail float-left pr-2 pb-2"
                     alt="me"
                   />
                   <p>
-                    Hi! I'm Valentin. I'm a full-stack web developer based out of
+                    Hello! I'm Valentin. I'm a full-stack web developer based out of
                     Atlanta, Georgia that specializes in building highly responsive,
                     detailed, user-friendly, web apps. I have experience with
                     MongoDB/MySQL, Express, React, and Node.js. Or in short, MERN stack.
